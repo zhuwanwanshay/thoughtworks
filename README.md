@@ -1,2 +1,0 @@
-# thoughtworks
-thoughtworks test1
